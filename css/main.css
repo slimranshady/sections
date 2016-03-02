@@ -22,9 +22,10 @@ div {
 
 img {
   width: 100%;
+  display: inline-block;
 }
 
-.btn {
+.btn-ghost {
   color: #333;
   border: 3px solid #000;
   border-radius: .5em;
@@ -32,7 +33,7 @@ img {
   display: inline-block;
 }
 
-.btn:hover {
+.btn-ghost:hover {
   color: #fff;
   background-color: #666;
   border-color: #666;
